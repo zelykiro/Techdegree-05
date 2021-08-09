@@ -16,7 +16,6 @@ a,
 img {
     width: 200px;
     height: 200px;
-    margin: 0 auto;
 }
 
 .container {
@@ -50,6 +49,7 @@ img {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 20px;
+    justify-items: center;
 }
 
 
