@@ -15,7 +15,7 @@ Interactive Photo Gallery
 ### Goal of the project
 
 - To build an interactive photo gallery that filters it's contents based on user input
-- To use an external (lightbox) library to accelarate the development phase
+- To practice using an external (lightbox) library to accelarate the development phase
 
 #### What is a "LightBox"
 
