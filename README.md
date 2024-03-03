@@ -26,5 +26,3 @@
   2. LightBox plugin: baguetteBox.js [[github]](https://github.com/feimosi/baguetteBox.js)
 - CSS
 - HTML
-
-
