@@ -1,6 +1,4 @@
-# Project Title
-
-Interactive Photo Gallery
+# Interactive Photo Gallery
 
 ## How It Works
 
